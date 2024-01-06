@@ -1,11 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="75a4861a-cbfb-4302-9bfd-d36adcfea957" name="Changes" comment="" />
+    <list default="true" id="75a4861a-cbfb-4302-9bfd-d36adcfea957" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/common_package/vo/seat_info_vo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_package/vo/train_details.vo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_package/vo/train_details_vo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_package/vo/user_vo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_package/web_utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_package/web_utils/web_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_web_api/dao/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_web_api/dao/seat_reservation_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_web_api/dao/train_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_web_api/dao/user_dao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_web_api/helpers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_web_api/helpers/seat_reserve_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_web_api/helpers/train_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_web_api/queries/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_web_api/queries/seat_reservation_queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_web_api/queries/train_queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common_web_api/queries/user_queries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/web_handlers/seat_details_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webapp/web_handlers/train_handler.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common_package/connections/db_connection/mysql_db_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/common_package/connections/db_connection/mysql_db_connection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common_web_api/base_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/common_web_api/helpers/base_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common_web_api/user_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/common_web_api/helpers/user_helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/version_router.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/version_router.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/view.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/webapp/web_handlers/user_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/web_handlers/user_handler.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -18,13 +52,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/common_web_api/helpers" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Albanero_assignment" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -35,5 +102,52 @@
       <updated>1704517755338</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webapp/view.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webapp/view.py</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webapp/web_handlers/user_handler.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/common_web_api/dao/user_dao.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/common_web_api/helpers/user_helper.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/webapp/web_handlers/user_handler.py</url>
+          <line>8</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

@@ -7,7 +7,7 @@ class BaseHelper:
         try:
             if existing_conn is None:
                 myconn = connecttion_factory.ConnectionFactory.create()
-                conn = myconn.getconnection()
+                conn = myconn.get_connection()
             else:
                 conn = existing_conn
             return conn
