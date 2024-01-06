@@ -1,5 +1,5 @@
 # Albanero_assignment
-1. Clone: git@gitlab.com:hornet4054609/ml-engine.git from main branch
+1. Clone: git@github.com:ssen110/Albanero_assignment.git from main branch
     2. Install Python3:
         ### make sure the system's repositories are updated, 
             if not use : sudo apt update
