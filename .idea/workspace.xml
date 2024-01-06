@@ -2,32 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="75a4861a-cbfb-4302-9bfd-d36adcfea957" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/common_package/vo/seat_info_vo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_package/vo/train_details.vo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_package/vo/train_details_vo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_package/vo/user_vo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_package/web_utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_package/web_utils/web_utils.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_web_api/dao/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_web_api/dao/seat_reservation_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_web_api/dao/train_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_web_api/dao/user_dao.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_web_api/helpers/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_web_api/helpers/seat_reserve_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_web_api/helpers/train_helper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_web_api/queries/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_web_api/queries/seat_reservation_queries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_web_api/queries/train_queries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common_web_api/queries/user_queries.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/web_handlers/seat_details_handler.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/webapp/web_handlers/train_handler.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common_package/connections/db_connection/mysql_db_connection.py" beforeDir="false" afterPath="$PROJECT_DIR$/common_package/connections/db_connection/mysql_db_connection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common_web_api/base_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/common_web_api/helpers/base_helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common_web_api/user_helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/common_web_api/helpers/user_helper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/version_router.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/version_router.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/view.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/view.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapp/web_handlers/user_handler.py" beforeDir="false" afterPath="$PROJECT_DIR$/webapp/web_handlers/user_handler.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
