@@ -47,7 +47,7 @@ class SeatReserveHelper(base_helper.BaseHelper):
             if existing_conn is None and conn is not None:
                 conn.close()
 
-    def cancel_train_ticket(self, booking_id, train_id, user_id, existing_conn = None):
+    def cancel_train_ticket(self, booking_id, user_id, train_id, existing_conn = None):
         conn = None
         try:
             conn = self.get_connection(existing_conn)
