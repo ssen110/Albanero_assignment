@@ -1,8 +1,8 @@
-# Albanero_assignment
+# Ticket_booking
 1. Clone: git@github.com:ssen110/Albanero_assignment.git from main branch
     2. Install Python3:
         ### make sure the system's repositories are updated, 
-            if not use : sudo apt update
+            if not use: sudo apt update
 
         sudo apt install python3.8
 
@@ -11,7 +11,7 @@
         i. Create the Venv:  python3 -m venv albanerovenv
         ii. Activate the Venv: source albanerovenv/bin/activate
 
-    5. After activating the venv go to 'Albanero_assignment' folder and run 
+    5. After activating the venv go to 'ticket_booking' folder and run 
         pip install -r requirements.txt
     6. Setup environment variables:
         export FLASK_APP=app.py
